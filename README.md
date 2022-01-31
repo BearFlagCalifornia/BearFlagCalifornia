@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BearFlagCalifornia (Michael Stanford) 
 - 👀 I’m interested in Cloud Security, Threat Detection, Blue Team...
 - 🌱 I’m currently studying for Security+ certification
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to learn
 - 📫 How to reach me MichaelDavidStanford@gmail.com
 
 <!---
